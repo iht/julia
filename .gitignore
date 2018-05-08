@@ -25,3 +25,5 @@
 *.ji
 
 .DS_Store
+usr/lib/julia/libmkl_rt.dylib
+usr/lib/julia/libimf.dylib
